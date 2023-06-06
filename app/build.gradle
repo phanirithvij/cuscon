@@ -7,8 +7,8 @@ android {
         applicationId 'com.froxot.cuscon'
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 3005
-        versionName '3.0.0.5'
+        versionCode 3008
+        versionName '3.0.0.8'
         multiDexEnabled true
 
         // Naming app bundles
@@ -34,4 +34,4 @@ android {
     namespace 'com.froxot.cuscon'
 }
 
-dependencies { implementation 'com.github.Donnnno:candybar-foss:3.16.2' }
+dependencies { implementation 'com.github.zixpo:candybar:3.17.1' }

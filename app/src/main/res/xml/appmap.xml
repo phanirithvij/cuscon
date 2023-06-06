@@ -282,11 +282,12 @@
 	<item class="com.motorola.fmplayer.ChangeThemeActivity" name="radio_fm"/>
 	<item class="com.sweech.MainActivity" name="sweech"/>
 	<item class="com.ubnt.usurvey.ui.app.splash.SplashActivity" name="wifiman"/>
+	<item class="com.ubnt.usurvey.ui.splash.SplashActivity" name="wifiman"/>
 	<item class="de.avm.android.wlanapp.permissions.LocationPermissionActivity" name="fritz_app_wlan"/>
 	<item class="com.Latetech.WlanScanner.MainActivity" name="wlanscanner_by_latetech"/>
 	<item class="com.signalmonitoring.wifilib.ui.activities.MonitoringActivity" name="wifi_monitor_pro"/>
     <item class="io.gonative.android.SplashActivity" name="der_postillon"/>
-	<item class="com.touchtype.LauncherActivityIcon" name="microsoft_swiftkey_tastatur"/>´
+	<item class="com.touchtype.LauncherActivityIcon" name="microsoft_swiftkey_tastatur"/>
 	<item class="de.etecture.ekz.onleihe.activity.SplashScreenActivity" name="onleihe"/>
 	<item class="com.emacberry.uuid0xfd6fscan.ScannerActivity" name="uuid_0xfd6f_scanner"/>
 	<item class="com.duolingo.app.LoginActivity" name="duolingo"/>
@@ -553,6 +554,7 @@
 	<item class="com.samsung.android.appbooster.app.presentation.home.HomeActivity}" name="galaxy_app_booster" />
 	<item class="com.samsung.android.sm.score.ui.ScoreBoardActivity}" name="device_care" />
 	<item class="com.samsung.android.privacy.view.MainActivity}" name="private_share" />
+	<item class="com.samsung.android.privacy.view.MainActivity.launcher" name="private_share"/>
 	<item class="ginlemon.flower.HomeScreen" name="smart_launcher"/>
 	<item class="com.estrongs.android.pop.app.openscreenad.NewSplashActivity" name="es_file_explorer"/>
 	<item class="com.vanced.manager.ui.SplashScreenActivity" name="vanced_manager"/>
@@ -736,5 +738,50 @@
 	<item class="com.grupozeta.epe.MainActivity" name="elperiodico"/>
 	<item class="com.exovoid.weather.app.MainActivity" name="tiempo_xl"/>
 	<item class="coocent.app.weather.weather_14.MainActivity" name="weasce_clima"/>
+	<item class="com.duolingo.app.StreakSocietyLauncher" name="duolingo_streak"/>
+	<item class="com.samsung.android.arzone.ARZoneLauncher" name="ar_zone"/>
+	<item class="com.celsys.pwlegacyandroidhelpers.PWLegacyJniCustomNativeActivityAndroid" name="clip_studio"/>
+	<item class="com.samsung.android.app.goodcatch.main.activity.MainActivity" name="nice_catch"/>
+	<item class="com.microsoft.office.outlook.MainActivity" name="outlook"/>
+	<item class="com.samsung.android.app.tips.TipsMainActivity" name="tipps"/>
+	<item class="com.amazon.spiderpork.activities.MainActivity" name="amazon_luna"/>
+	<item class="com.apedroid.hwkeyboardhelper.ChooserActivity" name="external_keyboard_helper_pro"/>
+	<item class="com.jojoy.delegate.JojoyInstallerActivity" name="external_keyboard_helper_pro"/>
+	<item class="com.apedroid.hwkeyboardhelper.DefaultActivity" name="external_keyboard_helper_pro"/>
+	<item class="com.jojoy.delegate.JojoyInstallerActivity" name="fs_20"/>
+	<item class="com.giantssoftware.MainActivity" name="fs_20"/>
+	<item class="com.unity3d.player.UnityPlayerActivity" name="reventure"/>
+	<item class="com.valvesoftware.steamlink.SteamShellActivity" name="steam_link"/>
+	<item class="org.microg.gms.ui.SettingsActivityLauncher" name="vanced_microg_settings"/>
+	<item class="com.microsoft.office.apphost.LaunchActivity" name="excel"/>
+	<item class="com.samsung.android.app.routines.ui.main.RoutineLaunchActivityDummy" name="modi_und_routinen"/>
+	<item class="app.revanced.manager.flutter.MainActivity" name="revanced_manager"/>
+	<item class="com.microsoft.office.apphost.LaunchActivity" name="word"/>
+	<item class="com.att.mobilesecurity.ui.launcher.AttOneAppLoadDispatchActivity" name="activearmor"/>
+	<item class="com.amazon.photos.activity.LauncherActivity" name="amazon_photos"/>
+	<item class="com.amazon.mShop.home.HomeActivity" name="amazon_shopping"/>
+	<item class="com.sec.android.mimage.avatarstickers.activity.ShortcutActivity" name="ar_emoji_stickers"/>
+	<item class="com.backdrops.wallpapers.WelcomeActivity" name="backdrops"/>
+	<item class="com.bitstrips.imoji.ui.activities.LandingActivity" name="bitmoji"/>
+	<item class="com.squareup.cash.ui.MainActivity" name="cash_app"/>
+	<item class="com.DailyPay.DailyPay.MainActivity" name="dailypay"/>
+	<item class="com.sonyericsson.digitalclockwidget2.Info" name="digital_clock_and_weather"/>
+	<item class="com.kroger.feed.activities.SplashActivity" name="feed"/>
+	<item class="com.secretcodes.geekyitools.activity.SplashScreen" name="geeky_tools"/>
+	<item class="com.projectx.hackerx.MainActivity" name="hacker_x"/>
+	<item class="com.freeit.java.modules.onboarding.SplashScreenActivity" name="hacking"/>
+	<item class="com.limebike.launcher.LauncherActivity" name="lime"/>
+	<item class="com.lookout.ui.LoadDispatch" name="lookout"/>
+	<item class="com.marlboro.mhq.app.MainActivity" name="mhq"/>
+	<item class="connectiq.miles.app.onboarding.SplashScreenActivity" name="miles"/>
+	<item class="com.possible_mobile.MainActivity" name="possible"/>
+	<item class="com.phonevalley.progressive.common.activities.SplashActivity" name="progressive"/>
+	<item class="com.samsung.knox.securefolder.presentation.switcher.view.SecureFolderShortcutActivity" name="secure_folder"/>
+	<item class="com.synchronoss.dcs.att.r2g.ATTSplash" name="setup_and_transfer"/>
+	<item class="com.samsung.vvm.vvmapp.VVMApplication" name="visual_voicemail"/>
+	<item class="com.shanga.walli.mvp.splash.SplashActivity" name="walli_4k"/>
+	<item class="com.dreamon.wallnut.MainActivity" name="wallnut"/>
+	<item class="com.yahoo.mobile.client.android.mail.activity.MainActivity" name="yahoo_mail"/>
+	<item class="net.zedge.android.MainDefault" name="zedge"/>
 
 </appmap>

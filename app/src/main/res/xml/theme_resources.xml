@@ -156,6 +156,7 @@
     <AppIcon name="se.embargo.retroboy/se.embargo.retroboy.MainActivity" image="retroboy"/>
     <AppIcon name="org.crape.rotationcontrol/org.crape.rotationcontrol.RotationControlActivity" image="rotation_control"/>
     <AppIcon name="com.aefyr.sai.fdroid/com.aefyr.sai.ui.activities.MainActivity" image="sai"/>
+	<AppIcon name="com.aefyr.sai/com.aefyr.sai.ui.activities.MainActivity" image="sai"/>
     <AppIcon name="net.typeblog.shelter/net.typeblog.shelter.ui.MainActivity" image="shelter"/>
     <AppIcon name="org.smssecure.smssecure/org.smssecure.smssecure.RoutingActivity" image="silence"/>
     <AppIcon name="com.buzbuz.smartautoclicker/com.buzbuz.smartautoclicker.activity.ScenarioActivity" image="smart_autoclicker"/>
@@ -290,6 +291,7 @@
 	<AppIcon name="com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity" image="radio_fm"/>
 	<AppIcon name="com.sweech/com.sweech.MainActivity" image="sweech"/>
 	<AppIcon name="com.ubnt.usurvey/com.ubnt.usurvey.ui.app.splash.SplashActivity" image="wifiman"/>
+	<AppIcon name="com.ubnt.usurvey/com.ubnt.usurvey.ui.splash.SplashActivity" image="wifiman"/>
 	<AppIcon name="de.avm.android.wlanapp/de.avm.android.wlanapp.permissions.LocationPermissionActivity" image="fritz_app_wlan"/>
 	<AppIcon name="com.Latetech.WlanScanner/com.Latetech.WlanScanner.MainActivity" image="wlanscanner_by_latetech"/>
 	<AppIcon name="com.signalmonitoring.wifimonitoringpro/com.signalmonitoring.wifilib.ui.activities.MonitoringActivity" image="wifi_monitor_pro"/>
@@ -561,6 +563,7 @@
 	<AppIcon name="com.samsung.android.appbooster/com.samsung.android.appbooster.app.presentation.home.HomeActivity}" image="galaxy_app_booster" />
 	<AppIcon name="com.samsung.android.lool/com.samsung.android.sm.score.ui.ScoreBoardActivity}" image="device_care" />
 	<AppIcon name="com.samsung.android.privateshare/com.samsung.android.privacy.view.MainActivity}" image="private_share" />
+	<AppIcon name="com.samsung.android.privateshare/com.samsung.android.privacy.view.MainActivity.launcher" image="private_share"/>
 	<AppIcon name="ginlemon.flowerfree/ginlemon.flower.HomeScreen" image="smart_launcher"/>
 	<AppIcon name="com.estrongs.android.pop/com.estrongs.android.pop.app.openscreenad.NewSplashActivity" image="es_file_explorer"/>
 	<AppIcon name="com.vanced.manager/com.vanced.manager.ui.SplashScreenActivity" image="vanced_manager"/>
@@ -745,5 +748,50 @@
 	<AppIcon name="com.grupozeta.elperiodico/com.grupozeta.epe.MainActivity" image="elperiodico"/>
 	<AppIcon name="com.exovoid.weather.app/com.exovoid.weather.app.MainActivity" image="tiempo_xl"/>
 	<AppIcon name="weather.radar.live/coocent.app.weather.weather_14.MainActivity" image="weasce_clima"/>
+	<AppIcon name="com.duolingo/com.duolingo.app.StreakSocietyLauncher" image="duolingo_streak"/>
+	<AppIcon name="com.samsung.android.arzone/com.samsung.android.arzone.ARZoneLauncher" image="ar_zone"/>
+	<AppIcon name="jp.co.celsys.clipstudiopaint.galaxystore/com.celsys.pwlegacyandroidhelpers.PWLegacyJniCustomNativeActivityAndroid" image="clip_studio"/>
+	<AppIcon name="com.samsung.android.app.goodcatch/com.samsung.android.app.goodcatch.main.activity.MainActivity" image="nice_catch"/>
+	<AppIcon name="com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity" image="outlook"/>
+	<AppIcon name="com.samsung.android.app.tips/com.samsung.android.app.tips.TipsMainActivity" image="tipps"/>
+	<AppIcon name="com.amazon.spiderpork/com.amazon.spiderpork.activities.MainActivity" image="amazon_luna"/>
+	<AppIcon name="com.apedroid.hwkeyboardhelper/com.apedroid.hwkeyboardhelper.ChooserActivity" image="external_keyboard_helper_pro"/>
+	<AppIcon name="com.apedroid.hwkeyboardhelper/com.jojoy.delegate.JojoyInstallerActivity" image="external_keyboard_helper_pro"/>
+	<AppIcon name="com.apedroid.hwkeyboardhelper/com.apedroid.hwkeyboardhelper.DefaultActivity" image="external_keyboard_helper_pro"/>
+	<AppIcon name="com.giantssoftware.fs20.google/com.jojoy.delegate.JojoyInstallerActivity" image="fs_20"/>
+	<AppIcon name="com.giantssoftware.fs20.google/com.giantssoftware.MainActivity" image="fs_20"/>
+	<AppIcon name="com.Pixelatto.Reventure/com.unity3d.player.UnityPlayerActivity" image="reventure"/>
+	<AppIcon name="com.valvesoftware.steamlink/com.valvesoftware.steamlink.SteamShellActivity" image="steam_link"/>
+	<AppIcon name="com.mgoogle.android.gms/org.microg.gms.ui.SettingsActivityLauncher" image="vanced_microg_settings"/>
+	<AppIcon name="com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity" image="excel"/>
+	<AppIcon name="com.samsung.android.app.routines/com.samsung.android.app.routines.ui.main.RoutineLaunchActivityDummy" image="modi_und_routinen"/>
+	<AppIcon name="app.revanced.manager.flutter/app.revanced.manager.flutter.MainActivity" image="revanced_manager"/>
+	<AppIcon name="com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity" image="word"/>
+	<AppIcon name="com.att.mobilesecurity/com.att.mobilesecurity.ui.launcher.AttOneAppLoadDispatchActivity" image="activearmor"/>
+	<AppIcon name="com.amazon.clouddrive.photos/com.amazon.photos.activity.LauncherActivity" image="amazon_photos"/>
+	<AppIcon name="com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity" image="amazon_shopping"/>
+	<AppIcon name="com.sec.android.mimage.avatarstickers/com.sec.android.mimage.avatarstickers.activity.ShortcutActivity" image="ar_emoji_stickers"/>
+	<AppIcon name="com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity" image="backdrops"/>
+	<AppIcon name="com.bitstrips.imoji/com.bitstrips.imoji.ui.activities.LandingActivity" image="bitmoji"/>
+	<AppIcon name="com.squareup.cash/com.squareup.cash.ui.MainActivity" image="cash_app"/>
+	<AppIcon name="com.DailyPay.DailyPay/com.DailyPay.DailyPay.MainActivity" image="dailypay"/>
+	<AppIcon name="com.sonyericsson.digitalclockwidget2/com.sonyericsson.digitalclockwidget2.Info" image="digital_clock_and_weather"/>
+	<AppIcon name="com.kroger.feed/com.kroger.feed.activities.SplashActivity" image="feed"/>
+	<AppIcon name="com.secretcodes.geekyitools/com.secretcodes.geekyitools.activity.SplashScreen" image="geeky_tools"/>
+	<AppIcon name="hacking.learnhacking.learn.hack.ethicalhacking.programming.coding.hackerx.cybersecurity/com.projectx.hackerx.MainActivity" image="hacker_x"/>
+	<AppIcon name="hacking.learnhacking.learn.hack.ethicalhacking.programming.coding/com.freeit.java.modules.onboarding.SplashScreenActivity" image="hacking"/>
+	<AppIcon name="com.limebike/com.limebike.launcher.LauncherActivity" image="lime"/>
+	<AppIcon name="com.lookout/com.lookout.ui.LoadDispatch" image="lookout"/>
+	<AppIcon name="com.marlboro.mhq.app/com.marlboro.mhq.app.MainActivity" image="mhq"/>
+	<AppIcon name="connectiq.miles.app/connectiq.miles.app.onboarding.SplashScreenActivity" image="miles"/>
+	<AppIcon name="com.possible_mobile/com.possible_mobile.MainActivity" image="possible"/>
+	<AppIcon name="com.phonevalley.progressive/com.phonevalley.progressive.common.activities.SplashActivity" image="progressive"/>
+	<AppIcon name="com.samsung.knox.securefolder/com.samsung.knox.securefolder.presentation.switcher.view.SecureFolderShortcutActivity" image="secure_folder"/>
+	<AppIcon name="com.synchronoss.dcs.att.r2g/com.synchronoss.dcs.att.r2g.ATTSplash" image="setup_and_transfer"/>
+	<AppIcon name="com.samsung.vvm/com.samsung.vvm.vvmapp.VVMApplication" image="visual_voicemail"/>
+	<AppIcon name="com.shanga.walli/com.shanga.walli.mvp.splash.SplashActivity" image="walli_4k"/>
+	<AppIcon name="com.dreamon.wallnut/com.dreamon.wallnut.MainActivity" image="wallnut"/>
+	<AppIcon name="com.yahoo.mobile.client.android.mail/com.yahoo.mobile.client.android.mail.activity.MainActivity" image="yahoo_mail"/>
+	<AppIcon name="net.zedge.android/net.zedge.android.MainDefault" image="zedge"/>
 
 </Theme>
