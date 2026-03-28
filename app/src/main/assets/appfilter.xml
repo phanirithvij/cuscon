@@ -6976,6 +6976,10 @@
     <item component="ComponentInfo{com.nvidia.geforcenow/com.nvidia.geforcenow.LaunchActivity}" drawable="geforce_now" />
     <item component="ComponentInfo{com.seamlink.gatewaybox.chln/com.seamlink.gatewaybox.chln.MainActivity}" drawable="my_santa_maria" />
     <item component="ComponentInfo{com.google.android.apps.pixel.nowplaying/com.google.android.apps.pixel.nowplaying.mainscreen.NowPlayingMainActivity}" drawable="now_playing" />
+    <item component="ComponentInfo{pl.mbank/pl.mbank.core.activity.StartActivity}" drawable="mbank" />
+    <item component="ComponentInfo{pl.edu.usos.mobilny/pl.edu.usos.mobilny.SplashActivity}" drawable="mobilny_usos_ui" />
+    <item component="ComponentInfo{net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.obfuscation.MainActivityAltDefault}" drawable="mullvad_vpn" />
+    <item component="ComponentInfo{net.thunderbird.android/net.thunderbird.app.common.MainActivity}" drawable="thunderbird" />
 
 </resources>
 

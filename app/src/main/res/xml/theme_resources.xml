@@ -6864,5 +6864,9 @@
     <AppIcon name="com.nvidia.geforcenow/com.nvidia.geforcenow.LaunchActivity" image="geforce_now"/>
     <AppIcon name="com.seamlink.gatewaybox.chln/com.seamlink.gatewaybox.chln.MainActivity" image="my_santa_maria"/>
     <AppIcon name="com.google.android.apps.pixel.nowplaying/com.google.android.apps.pixel.nowplaying.mainscreen.NowPlayingMainActivity" image="now_playing"/>
+    <AppIcon name="pl.mbank/pl.mbank.core.activity.StartActivity" image="mbank"/>
+    <AppIcon name="pl.edu.usos.mobilny/pl.edu.usos.mobilny.SplashActivity" image="mobilny_usos_ui"/>
+    <AppIcon name="net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.obfuscation.MainActivityAltDefault" image="mullvad_vpn"/>
+    <AppIcon name="net.thunderbird.android/net.thunderbird.app.common.MainActivity" image="thunderbird"/>
 
 </Theme>

@@ -1,0 +1,2 @@
+Added mBank
+Fixed Mobilny USOS, Mullvad VPN, Thunderbird
