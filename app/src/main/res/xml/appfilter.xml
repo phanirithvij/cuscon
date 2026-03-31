@@ -6980,6 +6980,9 @@
     <item component="ComponentInfo{pl.edu.usos.mobilny/pl.edu.usos.mobilny.SplashActivity}" drawable="mobilny_usos_ui" />
     <item component="ComponentInfo{net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.obfuscation.MainActivityAltDefault}" drawable="mullvad_vpn" />
     <item component="ComponentInfo{net.thunderbird.android/net.thunderbird.app.common.MainActivity}" drawable="thunderbird" />
+    <item component="ComponentInfo{com.xd.xdtglobal.gp/com.xd.xdt.SplashActivity}" drawable="heartopia" />
+    <item component="ComponentInfo{net.thunderbird.android/com.fsck.k9.activity.MainActivity}" drawable="thunderbird" />
+    <item component="ComponentInfo{com.teslamotors.tesla/com.teslamotors.TeslaApp.MainActivity}" drawable="tesla" />
 
 </resources>
 

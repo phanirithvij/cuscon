@@ -6868,5 +6868,8 @@
     <AppIcon name="pl.edu.usos.mobilny/pl.edu.usos.mobilny.SplashActivity" image="mobilny_usos_ui"/>
     <AppIcon name="net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.obfuscation.MainActivityAltDefault" image="mullvad_vpn"/>
     <AppIcon name="net.thunderbird.android/net.thunderbird.app.common.MainActivity" image="thunderbird"/>
+    <AppIcon name="com.xd.xdtglobal.gp/com.xd.xdt.SplashActivity" image="heartopia"/>
+    <AppIcon name="net.thunderbird.android/com.fsck.k9.activity.MainActivity" image="thunderbird"/>
+    <AppIcon name="com.teslamotors.tesla/com.teslamotors.TeslaApp.MainActivity" image="tesla"/>
 
 </Theme>

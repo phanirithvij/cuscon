@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">28.03.2026</string>
+    <string name="changelog_date">31.03.2026</string>
     <string-array name="changelog">
+        <item>4.0.9.3:</item>
+        <item>Added Heartopia, Tesla</item>
+        <item>Fixed Thunderbird</item>
         <item>4.0.9.2:</item>
         <item>Added mBank</item>
         <item>Fixed Mobilny USOS, Mullvad VPN, Thunderbird</item>
