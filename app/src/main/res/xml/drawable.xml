@@ -2,9 +2,29 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="heartopia" />
-    <item drawable="tesla" />
-    <item drawable="thunderbird" />
+    <item drawable="autoelevate" />
+    <item drawable="follow" />
+    <item drawable="hudu" />
+    <item drawable="informed_delivery" />
+    <item drawable="ninjaone" />
+    <item drawable="ninja_remote" />
+    <item drawable="pokemon_sleep" />
+    <item drawable="unifi_protect" />
+    <item drawable="expo_go" />
+    <item drawable="morphe" />
+    <item drawable="insigno" />
+    <item drawable="librefind" />
+    <item drawable="pocket_code" />
+    <item drawable="_32steps" />
+    <item drawable="life360" />
+    <item drawable="b_and_n_nook" />
+    <item drawable="squad_busters" />
+    <item drawable="csb_mobile" />
+    <item drawable="paltopia" />
+    <item drawable="pokemon_home" />
+    <item drawable="vested_soft" />
+    <item drawable="afterpay" />
+    <item drawable="affirm" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -758,6 +778,7 @@
     <item drawable="gu_recorder" />
     <item drawable="easy_voice_recorder" />
     <category title="#" />
+    <item drawable="_32steps" />
     <item drawable="_433_football" />
     <item drawable="_3catinfo" />
     <item drawable="_1024_puzzle_numbers_game" />
@@ -799,6 +820,9 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="afterpay" />
+    <item drawable="affirm" />
+    <item drawable="autoelevate" />
     <item drawable="audio_connect" />
     <item drawable="awv_isar_inn_abfall_app" />
     <item drawable="alza" />
@@ -1195,6 +1219,7 @@
 	<item drawable="awoken" />
 	<item drawable="awox_homecontrol" />
     <category title="B" />
+    <item drawable="b_and_n_nook" />
     <item drawable="blip" />
     <item drawable="briar" />
     <item drawable="baba" />
@@ -1471,6 +1496,7 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="csb_mobile" />
     <item drawable="calibre_web_companion" />
     <item drawable="comaps" />
     <item drawable="comet" />
@@ -2154,6 +2180,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="expo_go" />
     <item drawable="eidetic" />
     <item drawable="ente_photos_green" />
     <item drawable="echo_e_paper" />
@@ -2340,6 +2367,7 @@
 	<item drawable="exodus" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="follow" />
     <item drawable="filen" />
     <item drawable="finch" />
     <item drawable="flow" />
@@ -2826,6 +2854,7 @@
 	<item drawable="gsmarena" />
 	<item drawable="gspace" />
     <category title="H" />
+    <item drawable="hudu" />
     <item drawable="heartopia" />
     <item drawable="horzu" />
     <item drawable="heise_online" />
@@ -3001,6 +3030,8 @@
 	<item drawable="hypatia" />
 	<item drawable="hyperrogue_gold" />
     <category title="I" />
+    <item drawable="insigno" />
+    <item drawable="informed_delivery" />
     <item drawable="infinite_craft" />
     <item drawable="io" />
     <item drawable="image_toolbox_resizershrinker" />
@@ -3380,6 +3411,8 @@
 	<item drawable="kutumb" />
 	<item drawable="kwgt_pro" />
     <category title="L" />
+    <item drawable="life360" />
+    <item drawable="librefind" />
     <item drawable="linkdy" />
     <item drawable="linkwarden" />
     <item drawable="library" />
@@ -3567,6 +3600,7 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="morphe" />
     <item drawable="mobilny_usos_ui" />
     <item drawable="my_santa_maria" />
     <item drawable="morph_reader" />
@@ -4089,6 +4123,8 @@
 	<item drawable="myumobile" />
     <item drawable="mbank" />
     <category title="N" />
+    <item drawable="ninjaone" />
+    <item drawable="ninja_remote" />
     <item drawable="now_playing" />
     <item drawable="neutron_player" />
     <item drawable="numeros" />
@@ -4499,6 +4535,10 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="paltopia" />
+    <item drawable="pokemon_home" />
+    <item drawable="pocket_code" />
+    <item drawable="pokemon_sleep" />
     <item drawable="pdf_viewer_pspdfkit" />
     <item drawable="prayer_book" />
     <item drawable="pinkt" />
@@ -5193,6 +5233,7 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="squad_busters" />
     <item drawable="sotn" />
     <item drawable="sdui" />
     <item drawable="signal" />
@@ -5766,6 +5807,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tesla" />
     <item drawable="telehealth" />
     <item drawable="track_and_graph" />
     <item drawable="tack" />
@@ -6114,6 +6156,7 @@
 	<item drawable="tux_paint_config" />
 	<item drawable="twelve_key_dialer" />
     <category title="U" />
+    <item drawable="unifi_protect" />
     <item drawable="unipatcher" />
     <item drawable="urnetwork" />
     <item drawable="unote"/>
@@ -6210,6 +6253,7 @@
 	<item drawable="utiles" />
 	<item drawable="utilidades_amaze" />
     <category title="V" />
+    <item drawable="vested_soft" />
     <item drawable="vradio"/>
     <item drawable="volumecontrol"/>
     <item drawable="volla_messages" />

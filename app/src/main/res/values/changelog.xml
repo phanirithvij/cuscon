@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">31.03.2026</string>
+    <string name="changelog_date">01.04.2026</string>
     <string-array name="changelog">
+        <item>4.0.9.4:</item>
+        <item>Added AutoElevate, Follow, Hudu, Informed Delivery, NinjaOne, Ninja Remote, Pokémon Sleep, UniFi Protect, Expo Go, Morphe, Insigno, LibreFind, Pocket Code, 32steps, Life360, B and N NOOK, Squad Busters, CSB_Mobile, Paltopia, Pokémon HOME, Vested Soft, Afterpay, Affirm</item>
+        <item>Fixed UPS, USPS Mobile, Pokémon GO</item>
         <item>4.0.9.3:</item>
         <item>Added Heartopia, Tesla</item>
         <item>Fixed Thunderbird</item>
@@ -41,131 +44,6 @@
         <item>Added Old School RuneScape, My Game Collection, PS Family, UniPatcher, Octopi Launcher, MyFuelLog2, Presseschau</item>
         <item>Updated and fixed MediaMarkt</item>
         <item>Fixed Ente Auth</item>
-        <item>4.0.7.9:</item>
-        <item>Added CalcYou, Parkster, Briar, Calculator, AlmaOrienta, AntiSplit M, Card Fall, Dungeon Cards, Dungeon Cards 2, Epic Games, Github Store, Hades Star, Honeygain, Infinite Craft, IO, Juno: New Origins Complete Edition, MLOL Ebook Reader, OpenStreetMap wiki app, Open Library, Path of Adventure, Pokemon GO, Quote Unquote, Robot Colony 2, Sketchware Pro, Steamletter, URnetwork, War Robots, anRICH Bürger, Echo News, GoTo, heise online, Tech News, That Shopping List PRO, Echo E-Paper, EHW+, Flow, HORZU, LOTTO Hessen, Magic Earth, Osmos</item>
-        <item>Fixed MeinVodafone, Thunderbird Beta, PayByPhone, Deezer, Wikipedia, Roku</item>
-        <item>Improved quality of Blitzer.de PRO, Roku</item>
-        <item>Vectorized PayByPhone</item>
-        <item>Thanks a lot to @github:Champ0999 who contribute many icons to this release</item>
-        <item>4.0.7.8:</item>
-        <item>Added Androidify, Expression Evaluator, FM Radio, Holo Launcher, Lock Screen, ParticleSim, Timidity AE, VRadio</item>
-        <item>Vectorized AccuWeather, Aba Mobile, A13 Theme for KLWP</item>
-        <item>4.0.7.8:</item>
-        <item>Vectorized 1 and 1 Cloud, 1 and 1 Mail, 3D Modelling app, 3DMark, 3Sat Mediathek, 4Dpa, 4Shared, 6thStreet, 17Track, Abn Amro</item>
-        <item>4.0.7.5:</item>
-        <item>Added Galerie, KernelSU Next, Image Toolbox, Marbles On Stream Mobile, ChemistryLab, Clipper+, Device Info HW+, Dimmer, DrawAnywhere, FFmpeg Media Encoder, Hidden Eye, Launch Chat, MIDI Clef, Multi-APK-Installer, OneCalc+, Paintastic, Primary, Quill, Sound Meter Pro, uNote, Volume Control, WorkIndia</item>
-        <item>Improved Marine Aquarium Pro, URLCheck</item>
-        <item>4.0.7.4:</item>
-        <item>Added 3CatInfo, SkyShowtime, Magic Sort, slither.io, DICE, HappyCow, Seterra, SG, WordReference, EasyPhysics, Numeros, Das absolute Gehör, Pitch Black Wallpaper</item>
-        <item>Updated Discord</item>
-        <item>Fixed Smart+, Youtube, Canta</item>
-        <item>4.0.7.3:</item>
-        <item>Added Loga3app, Mercedes-Benz, Momogram, NETWALK, Volla Messages</item>
-        <item>4.0.7.2:</item>
-        <item>Added C and P Aquaplants, Mercedes me, SMART+</item>
-        <item>4.0.7.1:</item>
-        <item>Fixed Letterboxd</item>
-        <item>Added Nagram X, NotallyX, Paseo, Staff Center</item>
-        <item>4.0.7.0:</item>
-        <item>Updated Net Analyzer, Zettel Notes</item>
-        <item>Fixed Curve Pay, OpenDocument Reader, Tailscale, DKB</item>
-        <item>Added Music, Pi, Aniyomi, App Finder, Assembly Line, Baba, BancoPosta, BBTAN, Cells, Citra, Civ VI, Commons, CUE, EdXposed Manager, Fallout Shelter, FightList, Geometry Dash Meltdown, Geometry Dash SubZero, Geometry Dash World, Juno: New Origins, Kitsune, Logline, Magikarp, Master Duel, melonDS, MMRL, myUniBo, Phonto, PhotoSwooper, Private DNS Quick Toggle, Pydroid 3, Reigns, Reigns Her Majesty, Riseup VPN, Scopa Più, Screen Time, Seedship, Slay the Spire, Smartphone Tycoon 2, Sniper, Songsterr, Subway Surf, Untappd, VirIT Mobile Security, Zynga Poker – Texas Holdem, 1024 Puzzle Numbers Game, Camera, Mapy.com, RTL+, sign-me 2FA, Tomato, Guitar Pro</item>
-        <item>4.0.6.9:</item>
-        <item>Added Infomaniak Mail, kAuth, kChat, kDrive, kMeet, SwissTransfer</item>
-        <item>4.0.6.8:</item>
-        <item>Added Nora, Bluetooth Scanner, Quicksy, Super Prod, CamScanner, Hello You, GIMP, VScode</item>
-        <item>Added more categories</item>
-        <item>Removed duplicates</item>
-        <item>Fixed NHS App</item>
-        <item>4.0.6.7:</item>
-        <item>Fixed Syncthing-Fork, ICSx⁵, Wire, ibisPaint X</item>
-        <item>Added Neo Backup, BT Remote, DR LYD, Flight Pass, CoMaps, FolderSync Pro, Fork Client, F-Droid Classic, jQuarks, Share to Clipboard, WebApps, PuppyGit</item>
-        <item>4.0.6.6:</item>
-        <item>Added AmazFaces, Aruba PEC, Balatro, Battery Notification, Ewpe Smart, Hearthstone, LoveLaceAV, MedTimer, MyAnimeList, MyTIM, Notesnook, Panoramax, PosteID, Postepay, Poste Italiane, Relax Banking, Resideo, sharing, Sticker Maker, X-Plorer S75-S95</item>
-        <item>4.0.6.5:</item>
-        <item>Improved quality of Minecraft and icons from U to end of C</item>
-        <item>Fixed Ally, Weather Master</item>
-        <item>Added JoiPlay</item>
-        <item>4.0.6.4:</item>
-        <item>Added fondly, AVG Cleaner, Explorador de archivos, FILEX, HTTP File Server, JPG to PDF Converter, PDFTools, Renombrar y organizar, trenes_app, Vista de documentos, Zip Extractor, EVMap, NouTube, OPA, Open Sudoku, Network Analyzer, DR-NetTools, Escáner de Red, Flair Wifi Analyzer, Network Signal Strength On Map, Nuyo WiFi, Wifi Refresh, WiFi Scanner: Network Info, Wi-Fi Monitor, AndroXLS, Control remoto de Impress, M-Office, PDF Reader, PDF Scanner App, Read All Document, Sheets Reader, Sheet Editor, XLS Viewer</item>
-        <item>Fixed Audible, Activity Launcher, Vernet</item>
-        <item>4.0.6.3:</item>
-        <item>Added Mobilny USOS UJ, Zettel Notes, ODT Reader, Office One, OOReader, RTF Viewer, Text Viewer, Computadora, ES Files, Files Pro, File Manager, File Manager, File Manager: Explorer amp; Cleaner, Helios File Manager, File Manager, File Manager, File Explorer, Aqua Mail, Certificado Digital, Matcha and CO, Meta AI, MeteoTrends, Rakuten TV, Speed Test, WordPress</item>
-        <item>Moved more apps to Documents</item>
-        <item>Added translations</item>
-        <item>Improved quality of Zettel Notes and icons from S to end of T</item>
-        <item>Fixed Lawnchair</item>
-        <item>Added category File Manager</item>
-        <item>4.0.6.2:</item>
-        <item>Added Docx Reader, Visor de documentos, AI Chat PDF, All Document Reader and Viewer, All Doc Reader, CERT Firma, PDF a Word, Smart CSV, Office Viewer, Discoverium</item>
-        <item>4.0.6.1:</item>
-        <item>Added FileTransfer Pro, AOK 2-Faktor, German for AnySoftKeyboard, photoTAN, BahnBonus, Cooking Fever, Tick Tock</item>
-        <item>Fixed GitHub, Insta, SOUNDPEATS, Zomato, BHIM</item>
-        <item>4.0.6.0:</item>
-        <item>Added HiperDino, Próximo bus Barcelona, Banggood, C and A, Lidl Home, Nike, OYSHO, Voghion, Decathlon, Papa Johns, Docs Reader, Editor de Docx, PDF Pro, All Document Reader, PDF Reader, Word Office, Orbot, Broearn, Fully Kiosk Browser, Herond, Lemur Browser, Qwant, Stay Browser, Tempest, Gallery, AllTrails, CCU Mobile, Equate, Jitsi Meet, Kroger, Mint Mobile, MyHealth, MyHumana, Omio, Paprika 3, Amerigo, Archivos BD, FileTransfer, File Manager, File Manager, File Manager Plus, Folder hider, Nuclias Connect, Wifi File Transfer, PDF Reader, Word Office, InBrowser, All Document Reader, Lector de Documentos, All Document Reader, Lector de Documentos, Todas las herramientas de documentos, Administrador de archivos, All Documents Reader, File Manager</item>
-        <item>Fixed adidas, Lidl Plus, All Documents Reader, DocxReader, Editor de Docx, App Lounge, Cryptomator</item>
-        <item>4.0.5.9:</item>
-        <item>Added Alcampo.es, ALDI, BAUHAUS, Dia, El Corte Inglés, Joom, Kiabi, Miravia, Primor, Avast Secure Browser, AVG Secure Browser, Conforama, Fnac, Mises, PcComponentes, Pure Browser, Quetta, Vivaldi Snapshot, Navegador, Pizza Boy A Pro, Voicemail</item>
-        <item>Fixed Springfield</item>
-        <item>4.0.5.8:</item>
-        <item>Added GeoFlota, Just Eat, My Package Tracking, OUIGO España, Package Tracker, Pans and Company, Parcel Tracker, pkge, Seguimiento de correos, Analizador WiFi, WiFi Analyzer, WifiAnalyzer, Analizador WiFi, Escáner Wi-Fi, Network Analyzer, WiFi Analyzer and Surveyor, WiFi Analyzer PI</item>
-        <item>Fixed Correos, analiti</item>
-        <item>Fixed and improved quality of Netmonitor</item>
-        <item>4.0.5.7:</item>
-        <item>Added apo-discounter, NIIMBOT, Pannenhilfe, Polizeibericht, SIM-Toolkit, SpardaApp, DB-App, Kit de todos los documentos, Mobile Assistant, MOTOTALK, Moto Buds, Moto OEMConfig, Moto Tag, Moto Watch, Todo el enfoque del documento, budgetum, How We Feel, Reflection.app, Kamera, Music, Noid, Noting, Renpho, OK Transporte Barcelona, smou, WiZink, Barcelona Transport Map, Cabify, MOVENTIS, TMBApp, T-mobilitat, Yellow Taxi, AirEuropa, DominosPizza, MSN Eltiempo, Mundo Consum, RTVE el Tiempo, RTVE Noticias</item>
-        <item>Fixed Catalunya Noticies, Nothing X, H and M</item>
-        <item>Fixed and improved quality of Mercadona, Stradivarius, tiempo.es</item>
-        <item>4.0.5.6:</item>
-        <item>Improved quality of icons from M to S</item>
-        <item>Fixed AndrOpen Office, ONLYOFFICE Documentos</item>
-        <item>Added Editor de Docx, Lector de documentos, PDFgear, PDF Reader, Polaris Office, Visor de documentos, 0ffice Documents Reader and Viewer, Mario Kart, MARIO RUN, MuseScore, Synthesia</item>
-        <item>4.0.5.5:</item>
-        <item>Added Banking, Flavorish, Galerie, Thunderbird Beta, VIMpay, FUTO Keyboard, Aqara Home, Automate flow, BinEd, GPSLogger II, Multi-Calculator, Music Theory Companion, openScale sync, SherpaTTS, Tiny Weather Forecast Germany, Udderance AAC, Weather, meteocat, Moto Note, Moto Unplugged</item>
-        <item>Fixed YAZIO</item>
-        <item>4.0.5.4:</item>
-        <item>Added Itinerary, Wero, wger, Automate, Codora, CoinCalc, Crypto, Digital Detox, FossWallet, Nintendo Music, OneMoreSecret, Ping and Net, SilentNotes, Anime Stickers, filmfriend, ownCloud, Monument Valley 2, Paper Trail</item>
-        <item>Fixed BahnBonus, Character.AI, Keepass2Android, STADTRADELN, ZDF, Aliucord Manager</item>
-        <item>4.0.5.3:</item>
-        <item>Added Fastmail, PINcredible, 1Password, FairNote, ORF SOUND, tvQuickActions Pro, Busy App, Feedback, Flipper, Moto AI, SiYuan, Storage Image Viewer, Tuta Calendar, Deliveries, Mindroid, SayI</item>
-        <item>Updated MuPDF</item>
-        <item>4.0.5.2:</item>
-        <item>Fixed Patreon</item>
-        <item>Added atvTools, CBC Listen, HRTi, NPO Luister, mail.ch, mail.co.uk, mail.de, Mailfence, mail.fr, UGREEN NAS, Zotero, Mirror, Notes, Le Chat, NotebookLM, RTR-NetTest, S3Drive, SubTotal, WorkingHours, YT Create</item>
-        <item>4.0.5.1:</item>
-        <item>Fixed Resume Builder, Seal Preview, Stitch Photos, Suntimes, Voice changer with effects</item>
-        <item>Added SCEE, Squircle CE, Wörterbuch, Bitcoin Testnet3, SVG Viewer, SVG Viewer, SVG Viewer, SVG Viewer, SVG Viewer, Rabobank, R.A.C.E., Rainbow KWGT, Raven Castle, Rec Studio Lite, Rede Expressos, ReLabs, Reminder Pro, Remix, ReMiX KWGT, Remove Objects, re-Link, RL KWGT, Roboyard, Router Keygen, Router Keygen YoloSec, ruff, Rush, SA2138, SAF Media Scanner, Seguranca Social, Sentinel Lens, SerialTest, Serial Monitor, Serial Terminal, Setter, Shapez, Shortcuts Widget, Shortcut Manager, ShroomID, sigaApp, Signal Detector, Signal Spy, SimplePlanes, Simple SVG Viewer Converter, SimpMusic, Sit. Fiscal, Si Connect, Skyfish 2, Slow Motion, SmartScan, Smart Nav Bar, Smart Printer, Smart Recorder, SMASH, SnapSaver, SNS 24, Sorcery!, Soul Searching, Sound Amplifier, Souvenirs, SPACEPLAN, SpamBlocker, Sparkle 2, Spending Tracker, SPHAZE, Spinning Moon, splitcat, Splyce, SshKeyMan, Starling, StarTracker, Star Music Tag Editor, Star Rover, stasis, Stay-Awake on ADB, ST Unlocker, Sudoku Master, Sun Locator, Super Pads, SupIR, SvgPreview, SVG Editor, Svg Viewer, SVG Viewer: SVG Converter, Swagbucks, SwiftScan, Swift Notes, Swim Out, SwordMaster Story, Syncfusion Flutter UI Widgets, SysLog, SVG Viewer, TEM SEGURO, TeraBox, Termux:API, Termux:GUI, Testes de Codigo, TestM, Testy, Test Em All, Test My Android, Test Your Android, Tetrd, Text Tools, Text Tools, TgMonet Theme, Theme Store, The House of da Vinci, The House of da Vinci 2, The One App, This Is the Police, Tiles Widgets, Timed Silence, Time KWGT, Time Kwgt, Time Until, Time Warp Scan, Toloka, Toluna, Torque, Touch Lock Pro, Touch Screen Test, Tower Collector, tpMiFi, Track Replay, Traintime PDA, Transito, Translate, Träwelldroid, Trilby, Turtl, Ultimate USB, Ultra Lock, Unholy Neighbourhood 2, UnjumbleApp, Update Me, Upland, Upland Racing, UPnP Explorer, UpRock Earning, USB Debugging, USB HID Client, USB Host Test, USB OTG Connector, USB Serial, USB Serial Monitor, USB Serial Telnet Server, VanSite, VectorMotion, Vector Asset Creator, vector-ink, Venus KWGT, Vernet, Video Stabilizer, VoiceTooner, Voucher Vault, WADB, Walk Band, WallFarm, War Machines, Water Sort Pro, Weather Widget, WebMonkey, WhatCarIsThat, WhatSave, WHID Injector, WiFi Mouse, Wikiloc, Wireless ADB, Wireless Mixer, Word Connect, Word Crush, Word Match, Word Search Champion PRO, Word Search Fun PRO, Word Search, Word Search Unlimited PRO, Xed-Editor, Xiaomi Earbuds, Xproguard Anti-Theft, X Icon Changer, YouDJ Mixer, Your local weather, Zeel, Zenjob, Zueiras Voice</item>
-        <item>Many thanks to @github:RenovAlgarve</item>
-        <item>4.0.5.0:</item>
-        <item>Updated My Verizon, Verizon Protect, Pluto TV, Google Play Books, RiMusic</item>
-        <item>Fixed Venmo</item>
-        <item>Added Photos, Breakout 71</item>
-        <item>4.0.4.9:</item>
-        <item>Removed duplicates</item>
-        <item>Updated ashell You</item>
-        <item>Fixed aShell, Cross DJ Pro, File Converter, Files, FV File Explorer, Grayjay, Klarna, Smart Autoclicker, MusicSearch, My Files, My Vodafone, myDPD, OLX Portugal, OONI Probe, OpenTracks, Oscilloscope, Overmorrow, Phone Manager, Privat24, Pulsar+, Calendar, Proton VPN</item>
-        <item>Added FadCam, Fast Scanner, Feast KWGT, FetchIt, Files, Filester, File Explorer, File manager, Find5x, Firefight, FitoTrack, FlacCueSplitter, FlipaClip, Flow Free, Fluid, Flut Renamer, Forkyz Scanner, frigoligo, Fuel Player, G30, Geddit, Geovelo, Geo Share, Get Icon, Gift Card Guard, Gift KWGT, GlycoX, Goat Simulator, Gold for Words, Goodwall, Gopinion, GoPlus Cam, gov.pt, gpsdRelay, GPS Status, GPTMobile, Graphics Design, GRIS, HACK, Hacki, Harmonic, Headi, Hero of the Kingdom: Tales 1, Hews 2, Highway, HN Reader, holedown, Hungry Shark, HyperOS Clock for KWGT, Icon Changer, Icon Changer free, Icon Creator, Icon Packer, Icon Pack Mixer, IITC Mobile, Illuminance, Image2SVG, Image Converter, Image Converter, Image Toolbox, Image to PDF, Infinite Design, InfoJobs, init.d scripts support, Install with Options, Intercepter-NG, InviZible Pro Beta, ISS Detector Pro, JINA Drawer, JINA Sidebar, Json List, Jvdroid, Kanade, Kaossilator, KAPK, Kingdom Wars, KLCK, Koda for Kustom, Kuji Cam, Kustom Konsole, Kweather, Lenovo PC Diagnostics, Lexis Audio Editor, LibreTrack, Life Gallery, Lil Big Invasion, LinkDroid, Linkora, Lissen, Little Nightmares, LocationHistory, Loyalty Card Keychain, M3U, Machinarium, Mahjong, Mandala Maker 360, Manual Camera DSLR Pro, Mapillary, Mapy.com, Master of Words PRO, Match Puzzle Travel, Materialious, Material Photo Widget, Math Connect PRO, Math up to 100, Matrix PRO Live Wallpaper, MB WAY, Medkit, Meesho, Mega Ramp Car Jumping, Memerize, Meteored Pro, MicoPacks, Micro REPL, Minerva Wallet, Mixfader dj, Mixing Station, MixPad Free, ML Manager, Moey, Monese, Monochrome KWGT, Monzo, Moon+ Reader Pro, Morse Mentor, Morse Mentor Pro Licence, MotionLock, MPatcher, MSM, MTG Familiar, Mtk Easy Su, MultiPolls, Music, Music Pro, MyWallApp, My APK, My Buds M8, My Medicine Pro, My Notes, NATIV, Neevo, Neo, NeoStumbler, NetHunter, NetHunter Terminal, NetShare, Network, NFCGate, NFSee, Nicequest, Nickel, NIViX KWGT, Non Stop Balloons Shooter, Notebloc Scanner, Notepad, Note Fighter, Nothing KWGT, Nothing Weather KOMP, NotifyMe, nRF Logger, Nubank, Ogram, Olho no Carro, One4KWGT Ultimate, OpenWrt Manager, orbt xl, ORG 24, Oscope, osm2gmaps, OsmBugs, OSMfocus Reborn, OSMTracker for Android™, OSM Dashboard, OSM Dashboard (Offline), OSS Weather, OTG File Manager, OTG Guru, OwnTracks, OXXO, P2Play, Paidwork, Password Safe, Payload Dumper Android, PDF to Word Converter, PeakOrama, Pen Tool SVG, Perfect Piano, Pexels, phiola, Photo Curves, Photo Studio PRO, Piano Melody Pro, PicGuard Pro, Picturize It, Pic Stitch, PixelDroid, PixelLab, Pixel Art, Pixel Clock Widgets, Pixel Weather, PiXMiX KWGT, Pix Wallpapers, Plague Inc., Pluvia, Png to svg, Podcast Go, Podcini.R, Poly Bridge 2, Poly Bridge 3, Posters, Poster Maker, Potion Permit, Power Apk, Premise, Print Size, Prism Style for KLWP, ProofMode, Provision Cam2, Psychedelics, QR/Barcode Scanner Pro, Quizio PRO, Quotes Creator, BKLYN Library, Dropout, KineStop, parknyc, Royal Road, Waistline</item>
-        <item>Many thanks to @github:RenovAlgarve</item>
-        <item>4.0.4.8:</item>
-        <item>Fixed Weather, APK Explorer and Editor, APK Extractor</item>
-        <item>Added Ally, Egg, Inc., FeedFlow, Loops, Memories, PhoneTrack, Power Ampache 2, Raccoon, Robo Defense, A13 Theme for KLWP, ABN AMRO, Action Blocks, Activity Launcher fork, ActivoBank, ADB, ADBify, ADBungFu, ADB OTG Shell, ADB over WiFi, ADB⚡OTG, AFK Arena, AF Weather Widget, AirDroid, AirMirror, AirMirror Receiver, Airship Knights, AI Photo Editor, Alchemicon Pack, Alves Bandeira, Android 12 For Klwp, AndroVid Pro, AnLinux, Another Term, Ansari KWGT, AntiBAG, APatch, AppSend, Appteka, AppVerifier, Arcana Blade, ArcaneChat, Arc Search, Argent, Aria2App, ArtLab, AR Drawing, ATGo, AttaPoll, Audio Converter, Autenticação Gov, Authenticator, AutoCrop, AutomaTag, AutoMate, aWallet, aWallet Cloud, Awesome Icons, 4PDA, ∞ ENERGY, Battery Widget, Caffeinate, Claude, Clone Phone, Cookbook, Banco CTT, Bankieren, Battery Level Indicators, BattleCry, Beacon Locator, BeatInspector, BeMyEye, BendyStraw, Best Piano, Betwix, BK Portugal, BlastOff, Blast Friends, Blend Photos, BleOta, BLE-Monitor, Bloomee, Blossom KLWP, Bluetooth Terminal, Bluetooth Volume Manager, Bluetouch, Blur Photo, Bookmarks, Boomerang RPG, Boxes Lost Fragments, Bricks Breaker Quest, Bubble Pop!, Bugjaeger Premium, Bullet Boy, Bunny Media Editor, bunq, Bura, Business Calendar, Business Calendar Pro, Business Card Maker, Business Card Maker, Butterfly, b-hyve Pro, Calculator, Calls Blacklist, Camera ZOOM FX, Camperstop, Campy, CamToPlan Tape measure Measurement ruler, Candy Crush Saga, Capy Reader, Carp Fish Sim, Chameleon, Charging SlideShow, Chat, Chroma Lite KLWP, ClassDojo, Clickworker, Clima, Codewords, Color Wheel, Comboios, Constellations PRO Live Wallpaper, Conty, Corluma, CP, Currency Plus, Cut and Paste Photos, DarkModeLiveWallpaper, DarQ, Date Calculator Pro, DealersLife2, DeepOcean, Demetrios, Denúncia Estacionamento, Depth Walls for KLWP, Designer Business Card Maker, Developer Assistant, Dev Tools, Digi24, DigiOnline, DigiRO, Digi Storage, DIGI TV, Dj Loop Pads, Doors: Origins, Downloader, DragonML, DroidCrypt, DSU Sideloader, DUApp, Duplila, Electrum, English Guess The Phrase, Eruda, EsupNfcTagDroid, Eurobank, Evil Hunter Tycoon, Evolve for KWGT, ExifEraser, Expense Tracker, Extirpater, Extreme Landings Pro, Eye Charts, Buy Me a Coffee, DroidCam</item>
-        <item>4.0.4.7:</item>
-        <item>Added Ironfox, BuzzKill, SimpleMind Lite, Spontacts, Translate On Screen, Google Lens Camera, Antimine, DB MobiDig, GLS Banking, hkk, Metadatenentferner, myVRN, Vespucci, Finamp</item>
-        <item>Fixed Lawnchair, LinkedIn, MEGA, Obtainium, Password Store, Proton Pass, Instagram, Good Lock, StayFree, Theme Park, The Weather Channel, Password Store</item>
-        <item>Updated Youtube icon, Google Play Store, Google Chat, Musixmatch</item>
-        <item>4.0.4.6:</item>
-        <item>Added nRICH, DER SPIEGEL, G DATA VPN, hessenschau, Mobile Security, SchildiChat, S-Miles Home, tagesschau, Thunderbird</item>
-        <item>Updated Firefox Klar</item>
-        <item>Improved quality of icons</item>
-        <item>4.0.4.4:</item>
-        <item>Improved quality of 118 icons from I to L</item>
-        <item>Added dynamic calendar for ICSX5</item>
-        <item>4.0.4.3:</item>
-        <item>Improved quality of Debeka Gesundheit, Deduplicate SMS, Deep Links for Labcoat, Deepsearch, Deg MDubai, Delta Chat, Deltazero Amarok Calendar, Dermatology Database, Derpfest Flash, Desjardins, Device Policy, DHabayeh, DHL Express, Diabrium, Dicio, Diconfinement, DictCC, Digi Clock Settings, Digi Yatra, Digiposte, Digitales Bezahlen, Disciplined, Discord Ghost, Tools, Webhook Remote, DJH, DJI Store, DNS66, Do It Now, Docs To Go, Document Reader, Viewer, Documentreader PDFViewerApp Filereader Word Docs, Docx Reader, Docx2PDF, DocxReader, Dog Scanner, Dolphin Zero, Downdetector, Download Progress, Download Video for Pinterest, Downmack, DPI Tunnel, Droid Dashcam, Druckdienste Plug In von Samsung, DS Audio, DS Finder, DS Get, DS Video, DTicket, Dubizzle OLX Lebanon, Dubizzle, Dunkin, Duo Mobile, Duplicate Cleaner and 152 more</item>
-        <item>4.0.4.2:</item>
-        <item>Improved quality of A Cloud Guru, Aba Mobile, ABP for Samsung Internet, Absher, Account Book, Acep Toxicology Antidote App, Acko, Acrobat Sign, Action, Activearmor, Activefitnessstore, Ada soc, Aday Islemleri, Adcalendar, Admin, Administradora de Archivos, Adv Gravador de Telas, Aemet, Agape, Agate, AI Chatbot, AI Life,  AI Marvels, Airnow, Airtask, Aldi Talk, Aldiko Classic, Alfagift, Alibabacom, Alibi, Alien Shooter, All Document Viewer, All Documents Reader, All Documents Viewer, All Reader, Allcom, Allofresh, Alovoa, Alpinequest, Aluno Online, Amazon Shopper Panel, Ameixa Monochrome, Ameixa, Amethyst, Amnis, Among Us, Ampere, Amplenote, Ampwifi, AndDaaven, Androbd, Android Device Info, Android Gallery 3D Magenta, Ango Icons, Animiru, Ankiapp, Ankipro, Annals of Internal Medicine, AnswerAI, Antar, Antivirus Free, Antutu 3DBench lite, Antutu Benchmark, Anydesk, Anydo, Aos TV, Aospstudio Systemui Tuner, Apex Manager, Apk Analyzer, Apkmirror Installer Beta, Apna, Apollo 247, App Launcher, App Share, App Tester, Appareil Photo, Appbar, Appdash, Appdrop, Appgallery, Apprendre, Appstorm, Ara Note, Arabian oud, Aramex, Arte, Artflow, Arts and Culture, Artspira, Arzteblatt, Asda Rewards, Asda, Asmaky, Asr, Assistente, Atc, Audiobookshelf, Authenticator 6, Authpass, Auto Additions, Autoalarm, Autoguard, Autoinput, Autolaunch, Autolocation, Autonotification, Autoshare, Autosheets, Autoshortcut, Autotools, Autovoice, Autowear, Autoweb, Avsar, Awfarli, Axis Mobile, Axp Apk Extractor, Azure, B and H, Ba Mobil, Backit Epn, Bahai Prayers, Balance Elevatelabs, Barq, Battery Pods, Battery Sound Notification, Bayut, BB, Bcr, BeeTV, Benefits, Beyond Menu, Bhim Sbi Pay, Bigdata Interview Guide, Biglybt, Bilibili, Binbaz, Bitcoincom Wallet, Blablacar, Blackberry Hub Services, Blackplayer, Blackstar Clipboard, Blinkit, Blockchain Wallet, Blockerhero, Bluebubbles, Blued, Bluetooth Keyboard and Mouse, Bm Wallet, Bofa, Boodmo, Bookshelf, Boosted, Bose Music, Boursobank, Box Stacker, Box, Brainstorm, Brave, Bromite, Browsehere, Bsnl Selfcare, Btc Map, Bubble, Buckwheat, Budapestgo, Buienradar, Bullets, Bundled Notes, Busuu, C001, C24 Bank, Cache Cleaner, Cadrex, Caffeine, Calendly, Camera360, Cancan, Canvas Student, Capital Fm, Career Karma, Cari, Carrefour, Cars24, Carteira de Trabalho Digital, Cartlow, Cat Scanner, Catalunya Noticies, CC Launcher, CDKeys, Centrepoint, CEToolbox, Character Keep, Chatbot, Chaton AI, Chefkoch, Cheogram, Chick Fil A, Chiki, Chipdefense, Chipdip, Chroma Doze, Ciber Proteccion, Circuit Trainer, Cittamobi, CJdropshipping, Classical Music Tagger, Classify RX, Classroom, Clear Square Icon Pack, Clear Square White Icon Pack, Clipboard Cleaner, Clipshare, Cloudstream Beta, Codelita, Cofi, Coinbase, Color Harmony, Coloros Gallery3D Photos, Company Portal, Complete Ear Trainer, Complications Suite, Comprehensive Islamic Library, Compte Ameli, Conexion A Windows, Connect You, Conversations, Conversly, Cookidoo, Coolblue, Correios, Couchsurfing, Credit One, Crowdsource, Cryptocom, Ctos, Cuaca, Cube Acr Helper, Curso de Mecanica, Cyberark Identity Internal, Cyberark Identity, Cyberark Mobile, Daily Quotes Widget, DAK App, DAK EPA, Dalle Gallery, Dantotsu, Danube Home, Das Ortliche, Dasher, Daumcafe, Daybook, Daylio, DB NRWay, Gofiber, Google Ads, Developers, Drive, Earth, Finance, Gallery, Lens, Lookout, Pay Paisa, Shopping, Tango Measure, Wifi, Salt Player, Samsung Boost, Kids, Max, Pass</item>
-        <item>4.0.4.0:</item>
-        <item>Added fraenk, Hanseatic Bank Secure, OSS Kartenetui, Postident, Weather Master, WiFi4EU Map</item>
-        <item>Updated NINA, Habitica, Tusky</item>
         <item>See older changelogs on https://github.com/MiepHD/cuscon/releases</item>
     </string-array>
 </resources>

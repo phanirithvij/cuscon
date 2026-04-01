@@ -6983,6 +6983,32 @@
     <item component="ComponentInfo{com.xd.xdtglobal.gp/com.xd.xdt.SplashActivity}" drawable="heartopia" />
     <item component="ComponentInfo{net.thunderbird.android/com.fsck.k9.activity.MainActivity}" drawable="thunderbird" />
     <item component="ComponentInfo{com.teslamotors.tesla/com.teslamotors.TeslaApp.MainActivity}" drawable="tesla" />
+    <item component="ComponentInfo{com.autoelevate.notify/com.autoelevate.notify.MainActivity}" drawable="autoelevate" />
+    <item component="ComponentInfo{com.dexcom.followglobal/com.dexcom.followglobal.app.MainActivity}" drawable="follow" />
+    <item component="ComponentInfo{com.hudutechnologies.hudu/com.hudutechnologies.hudu.MainActivity}" drawable="hudu" />
+    <item component="ComponentInfo{com.usps.id45833/com.usps.rmin.android.ui.MainActivity}" drawable="informed_delivery" />
+    <item component="ComponentInfo{com.ninjarmm.mobile.dashboard/com.ninjarmm.mobile.dashboard.ui.LoginActivity}" drawable="ninjaone" />
+    <item component="ComponentInfo{com.ninjarmm.mobile.ncplayer/com.ninjarmm.mobile.ncplayer.NcActivity}" drawable="ninja_remote" />
+    <item component="ComponentInfo{jp.pokemon.pokemonsleep/jp.pokemon.pokemonsleep.commonutility.UnityPlayerActivity}" drawable="pokemon_sleep" />
+    <item component="ComponentInfo{com.ubnt.unifi.protect/com.ubnt.sections.splash.AuthenticationActivity}" drawable="unifi_protect" />
+    <item component="ComponentInfo{com.ups.mobile.android/com.ups.mobile.android.MainActivity}" drawable="ups" />
+    <item component="ComponentInfo{com.usps/com.usps.mobile.SplashScreenActivity}" drawable="usps_mobile" />
+    <item component="ComponentInfo{host.exp.exponent/host.exp.exponent.experience.HomeActivity}" drawable="expo_go" />
+    <item component="ComponentInfo{app.morphe.manager/app.morphe.manager.MainActivity_Default}" drawable="morphe" />
+    <item component="ComponentInfo{org.mindshub.insigno/org.mindshub.insigno.MainActivity}" drawable="insigno" />
+    <item component="ComponentInfo{com.jksalcedo.librefind/com.jksalcedo.librefind.MainActivity}" drawable="librefind" />
+    <item component="ComponentInfo{org.catrobat.catroid/org.catrobat.catroid.ui.MainMenuActivity}" drawable="pocket_code" />
+    <item component="ComponentInfo{com.thirtytwo.steps/com.thirtytwo.steps.MainActivity}" drawable="_32steps" />
+    <item component="ComponentInfo{com.nianticlabs.pokemongo.ares/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity}" drawable="pokemon_go" />
+    <item component="ComponentInfo{com.life360.android.safetymapd/com.life360.koko.LauncherNormal}" drawable="life360" />
+    <item component="ComponentInfo{bn.ereader/bn.ereader.app.ui.SplashActivity}" drawable="b_and_n_nook" />
+    <item component="ComponentInfo{com.supercell.squad/com.supercell.squad.GameApp}" drawable="squad_busters" />
+    <item component="ComponentInfo{com.apiture.xpressmobile.csbctx.sub/com.xpressmobile.MainActivity}" drawable="csb_mobile" />
+    <item component="ComponentInfo{dev.edmiquilena.palpedia/dev.edmiquilena.palpedia.MainActivity}" drawable="paltopia" />
+    <item component="ComponentInfo{jp.pokemon.pokemonhome/com.unity3d.player.UnityPlayerActivity}" drawable="pokemon_home" />
+    <item component="ComponentInfo{com.vestednetworks.vestedsoft/com.vestednetworks.vestedsoft.MainActivity}" drawable="vested_soft" />
+    <item component="ComponentInfo{com.afterpaymobile.us/com.afterpaymobile.us.MainActivity}" drawable="afterpay" />
+    <item component="ComponentInfo{com.affirm.central/com.affirm.central.MainActivity}" drawable="affirm" />
 
 </resources>
 

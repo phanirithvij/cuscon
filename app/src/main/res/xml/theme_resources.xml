@@ -6871,5 +6871,31 @@
     <AppIcon name="com.xd.xdtglobal.gp/com.xd.xdt.SplashActivity" image="heartopia"/>
     <AppIcon name="net.thunderbird.android/com.fsck.k9.activity.MainActivity" image="thunderbird"/>
     <AppIcon name="com.teslamotors.tesla/com.teslamotors.TeslaApp.MainActivity" image="tesla"/>
+    <AppIcon name="com.autoelevate.notify/com.autoelevate.notify.MainActivity" image="autoelevate"/>
+    <AppIcon name="com.dexcom.followglobal/com.dexcom.followglobal.app.MainActivity" image="follow"/>
+    <AppIcon name="com.hudutechnologies.hudu/com.hudutechnologies.hudu.MainActivity" image="hudu"/>
+    <AppIcon name="com.usps.id45833/com.usps.rmin.android.ui.MainActivity" image="informed_delivery"/>
+    <AppIcon name="com.ninjarmm.mobile.dashboard/com.ninjarmm.mobile.dashboard.ui.LoginActivity" image="ninjaone"/>
+    <AppIcon name="com.ninjarmm.mobile.ncplayer/com.ninjarmm.mobile.ncplayer.NcActivity" image="ninja_remote"/>
+    <AppIcon name="jp.pokemon.pokemonsleep/jp.pokemon.pokemonsleep.commonutility.UnityPlayerActivity" image="pokemon_sleep"/>
+    <AppIcon name="com.ubnt.unifi.protect/com.ubnt.sections.splash.AuthenticationActivity" image="unifi_protect"/>
+    <AppIcon name="com.ups.mobile.android/com.ups.mobile.android.MainActivity" image="ups"/>
+    <AppIcon name="com.usps/com.usps.mobile.SplashScreenActivity" image="usps_mobile"/>
+    <AppIcon name="host.exp.exponent/host.exp.exponent.experience.HomeActivity" image="expo_go"/>
+    <AppIcon name="app.morphe.manager/app.morphe.manager.MainActivity_Default" image="morphe"/>
+    <AppIcon name="org.mindshub.insigno/org.mindshub.insigno.MainActivity" image="insigno"/>
+    <AppIcon name="com.jksalcedo.librefind/com.jksalcedo.librefind.MainActivity" image="librefind"/>
+    <AppIcon name="org.catrobat.catroid/org.catrobat.catroid.ui.MainMenuActivity" image="pocket_code"/>
+    <AppIcon name="com.thirtytwo.steps/com.thirtytwo.steps.MainActivity" image="_32steps"/>
+    <AppIcon name="com.nianticlabs.pokemongo.ares/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity" image="pokemon_go"/>
+    <AppIcon name="com.life360.android.safetymapd/com.life360.koko.LauncherNormal" image="life360"/>
+    <AppIcon name="bn.ereader/bn.ereader.app.ui.SplashActivity" image="b_and_n_nook"/>
+    <AppIcon name="com.supercell.squad/com.supercell.squad.GameApp" image="squad_busters"/>
+    <AppIcon name="com.apiture.xpressmobile.csbctx.sub/com.xpressmobile.MainActivity" image="csb_mobile"/>
+    <AppIcon name="dev.edmiquilena.palpedia/dev.edmiquilena.palpedia.MainActivity" image="paltopia"/>
+    <AppIcon name="jp.pokemon.pokemonhome/com.unity3d.player.UnityPlayerActivity" image="pokemon_home"/>
+    <AppIcon name="com.vestednetworks.vestedsoft/com.vestednetworks.vestedsoft.MainActivity" image="vested_soft"/>
+    <AppIcon name="com.afterpaymobile.us/com.afterpaymobile.us.MainActivity" image="afterpay"/>
+    <AppIcon name="com.affirm.central/com.affirm.central.MainActivity" image="affirm"/>
 
 </Theme>
