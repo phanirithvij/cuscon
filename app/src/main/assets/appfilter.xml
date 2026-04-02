@@ -7009,6 +7009,8 @@
     <item component="ComponentInfo{com.vestednetworks.vestedsoft/com.vestednetworks.vestedsoft.MainActivity}" drawable="vested_soft" />
     <item component="ComponentInfo{com.afterpaymobile.us/com.afterpaymobile.us.MainActivity}" drawable="afterpay" />
     <item component="ComponentInfo{com.affirm.central/com.affirm.central.MainActivity}" drawable="affirm" />
+    <item component="ComponentInfo{com.termux.widget/com.termux.widget.activities.TermuxWidgetLauncherActivity}" drawable="termux" />
+    <item component="ComponentInfo{com.maxrave.simpmusic/com.maxrave.simpmusic.MainActivity}" drawable="simpmusic" />
 
 </resources>
 

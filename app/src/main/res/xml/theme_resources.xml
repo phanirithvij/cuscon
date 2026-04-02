@@ -6897,5 +6897,7 @@
     <AppIcon name="com.vestednetworks.vestedsoft/com.vestednetworks.vestedsoft.MainActivity" image="vested_soft"/>
     <AppIcon name="com.afterpaymobile.us/com.afterpaymobile.us.MainActivity" image="afterpay"/>
     <AppIcon name="com.affirm.central/com.affirm.central.MainActivity" image="affirm"/>
+    <AppIcon name="com.termux.widget/com.termux.widget.activities.TermuxWidgetLauncherActivity" image="termux"/>
+    <AppIcon name="com.maxrave.simpmusic/com.maxrave.simpmusic.MainActivity" image="simpmusic"/>
 
 </Theme>

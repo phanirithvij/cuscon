@@ -25,6 +25,7 @@
     <item drawable="vested_soft" />
     <item drawable="afterpay" />
     <item drawable="affirm" />
+    <item drawable="simpmusic" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
