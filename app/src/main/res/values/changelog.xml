@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="changelog_date">02.04.2026</string>
+    <string name="changelog_date">17.04.2026</string>
     <string-array name="changelog">
+        <item>4.0.9.6:</item>
+        <item>Added GameHub, Where Winds Meet, Means TV, Seeneva</item>
         <item>4.0.9.4:</item>
         <item>Added AutoElevate, Follow, Hudu, Informed Delivery, NinjaOne, Ninja Remote, Pokémon Sleep, UniFi Protect, Expo Go, Morphe, Insigno, LibreFind, Pocket Code, 32steps, Life360, B and N NOOK, Squad Busters, CSB_Mobile, Paltopia, Pokémon HOME, Vested Soft, Afterpay, Affirm</item>
         <item>Fixed UPS, USPS Mobile, Pokémon GO, Termux:Widget</item>

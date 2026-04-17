@@ -7011,6 +7011,10 @@
     <item component="ComponentInfo{com.affirm.central/com.affirm.central.MainActivity}" drawable="affirm" />
     <item component="ComponentInfo{com.termux.widget/com.termux.widget.activities.TermuxWidgetLauncherActivity}" drawable="termux" />
     <item component="ComponentInfo{com.maxrave.simpmusic/com.maxrave.simpmusic.MainActivity}" drawable="simpmusic" />
+    <item component="ComponentInfo{com.xiaoji.egggame/com.xj.app.DeepLinkRouterActivity}" drawable="gamehub" />
+    <item component="ComponentInfo{com.netease.yysls/com.netease.ntunisdk.external.protocol.ProtocolLauncher}" drawable="where_winds_meet" />
+    <item component="ComponentInfo{tv.uscreen.meanstv/com.example.videoapp.MainActivity}" drawable="means_tv" />
+    <item component="ComponentInfo{app.seeneva.reader/app.seeneva.reader.screen.MainActivity}" drawable="seeneva" />
 
 </resources>
 

@@ -6899,5 +6899,9 @@
     <AppIcon name="com.affirm.central/com.affirm.central.MainActivity" image="affirm"/>
     <AppIcon name="com.termux.widget/com.termux.widget.activities.TermuxWidgetLauncherActivity" image="termux"/>
     <AppIcon name="com.maxrave.simpmusic/com.maxrave.simpmusic.MainActivity" image="simpmusic"/>
+    <AppIcon name="com.xiaoji.egggame/com.xj.app.DeepLinkRouterActivity" image="gamehub"/>
+    <AppIcon name="com.netease.yysls/com.netease.ntunisdk.external.protocol.ProtocolLauncher" image="where_winds_meet"/>
+    <AppIcon name="tv.uscreen.meanstv/com.example.videoapp.MainActivity" image="means_tv"/>
+    <AppIcon name="app.seeneva.reader/app.seeneva.reader.screen.MainActivity" image="seeneva"/>
 
 </Theme>
