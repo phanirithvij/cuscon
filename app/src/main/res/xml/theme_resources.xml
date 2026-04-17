@@ -6903,5 +6903,25 @@
     <AppIcon name="com.netease.yysls/com.netease.ntunisdk.external.protocol.ProtocolLauncher" image="where_winds_meet"/>
     <AppIcon name="tv.uscreen.meanstv/com.example.videoapp.MainActivity" image="means_tv"/>
     <AppIcon name="app.seeneva.reader/app.seeneva.reader.screen.MainActivity" image="seeneva"/>
+    <AppIcon name="com.barclays.android.barclaysmobilebanking/com.barclays.android.registration.NRegSplashActivity" image="barclays" />
+    <AppIcon name="com.chase.intl/com.mobile.MainActivity" image="chase" />
+    <AppIcon name="com.roborock.smart/com.roborock.smart.refactor.ui.splash.SplashActivity" image="roborock" />
+    <AppIcon name="com.schneider_electric.WiserHeat/crc64fb539898fb18f6f9.MainActivity" image="wiser_home" />
+  <AppIcon name="steptracker.healthandfitness.walkingtracker.pedometer/steptracker.healthandfitness.walkingtracker.pedometer.SplashActivity" image="step_tracker_pedometer" />
+  <AppIcon name="com.Arturo254.opentune/com.arturo254.opentune.MainActivity" image="opentune" />
+  <AppIcon name="net.pnhdroid.assistantapplauncher/net.pnhdroid.assistantapplauncher.MainActivity" image="assistant_app_launcher" />
+  <AppIcon name="com.butternutbox.baxter/com.butternutbox.baxter.MainActivity" image="butternut" />
+  <AppIcon name="com.rbs.mobile.android.rbs/co.uk.rbsg.mobile.android.feature.login.LoginActivity" image="royal_bank" />
+  <AppIcon name="net.waterfox.android.release/net.waterfox.android.release.App" image="waterfox" />
+  <AppIcon name="com.thomson.mythomson/com.feature.launcher.api.ui.LauncherActivity" image="tui" />
+  <AppIcon name="proton.android.authenticator.fdroid/proton.android.authenticator.app.ui.MainActivity" image="proton_authenticator" />
+  <AppIcon name="com.windyty.android/com.windyty.android.Standard" image="windy" />
+  <AppIcon name="com.immediasemi.android.blink/com.immediasemi.blink.MainActivity" image="blink" />
+  <AppIcon name="uk.co.mbna.cardservices.android/com.bankofamerica.android.webwrapper.Launcher" image="mbna" />
+  <AppIcon name="com.jens.automation2/com.jens.automation2.ActivityMainTabLayout" image="automation" />
+  <AppIcon name="com.xiaotun.doorbell/com.xiaotun.doorbell.activity.LogoActivity" image="wowcam" />
+  <AppIcon name="helium314.keyboard/helium314.keyboard.settings.SettingsActivity" image="heliboard" />
+  <AppIcon name="com.rbs.mobile.android.natwest/co.uk.rbsg.mobile.android.feature.login.LoginActivity" image="natwest" />
+  <AppIcon name="com.michaldrabik.showly2/com.michaldrabik.showly2.ui.main.MainActivity" image="showly" />
 
 </Theme>

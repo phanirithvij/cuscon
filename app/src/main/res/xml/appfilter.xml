@@ -7015,6 +7015,26 @@
     <item component="ComponentInfo{com.netease.yysls/com.netease.ntunisdk.external.protocol.ProtocolLauncher}" drawable="where_winds_meet" />
     <item component="ComponentInfo{tv.uscreen.meanstv/com.example.videoapp.MainActivity}" drawable="means_tv" />
     <item component="ComponentInfo{app.seeneva.reader/app.seeneva.reader.screen.MainActivity}" drawable="seeneva" />
+    <item component="ComponentInfo{com.barclays.android.barclaysmobilebanking/com.barclays.android.registration.NRegSplashActivity}" drawable="barclays" />
+  <item component="ComponentInfo{com.chase.intl/com.mobile.MainActivity}" drawable="chase" />
+  <item component="ComponentInfo{com.roborock.smart/com.roborock.smart.refactor.ui.splash.SplashActivity}" drawable="roborock" />
+  <item component="ComponentInfo{com.schneider_electric.WiserHeat/crc64fb539898fb18f6f9.MainActivity}" drawable="wiser_home" />
+  <item component="ComponentInfo{steptracker.healthandfitness.walkingtracker.pedometer/steptracker.healthandfitness.walkingtracker.pedometer.SplashActivity}" drawable="step_tracker_pedometer" />
+  <item component="ComponentInfo{com.Arturo254.opentune/com.arturo254.opentune.MainActivity}" drawable="opentune" />
+  <item component="ComponentInfo{net.pnhdroid.assistantapplauncher/net.pnhdroid.assistantapplauncher.MainActivity}" drawable="assistant_app_launcher" />
+  <item component="ComponentInfo{com.butternutbox.baxter/com.butternutbox.baxter.MainActivity}" drawable="butternut" />
+  <item component="ComponentInfo{com.rbs.mobile.android.rbs/co.uk.rbsg.mobile.android.feature.login.LoginActivity}" drawable="royal_bank" />
+  <item component="ComponentInfo{net.waterfox.android.release/net.waterfox.android.release.App}" drawable="waterfox" />
+  <item component="ComponentInfo{com.thomson.mythomson/com.feature.launcher.api.ui.LauncherActivity}" drawable="tui" />
+  <item component="ComponentInfo{proton.android.authenticator.fdroid/proton.android.authenticator.app.ui.MainActivity}" drawable="proton_authenticator" />
+  <item component="ComponentInfo{com.windyty.android/com.windyty.android.Standard}" drawable="windy" />
+  <item component="ComponentInfo{com.immediasemi.android.blink/com.immediasemi.blink.MainActivity}" drawable="blink" />
+  <item component="ComponentInfo{uk.co.mbna.cardservices.android/com.bankofamerica.android.webwrapper.Launcher}" drawable="mbna" />
+  <item component="ComponentInfo{com.jens.automation2/com.jens.automation2.ActivityMainTabLayout}" drawable="automation" />
+  <item component="ComponentInfo{com.xiaotun.doorbell/com.xiaotun.doorbell.activity.LogoActivity}" drawable="wowcam" />
+  <item component="ComponentInfo{helium314.keyboard/helium314.keyboard.settings.SettingsActivity}" drawable="heliboard" />
+  <item component="ComponentInfo{com.rbs.mobile.android.natwest/co.uk.rbsg.mobile.android.feature.login.LoginActivity}" drawable="natwest" />
+  <item component="ComponentInfo{com.michaldrabik.showly2/com.michaldrabik.showly2.ui.main.MainActivity}" drawable="showly" />
 
 </resources>
 

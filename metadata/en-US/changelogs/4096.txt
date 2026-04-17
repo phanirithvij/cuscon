@@ -1,1 +1,3 @@
-Added GameHub, Where Winds Meet, Means TV, Seeneva
+Added GameHub, Where Winds Meet, Means TV, Seeneva, wiser_home, step_tracker_pedometer, opentune, assistant_app_launcher, butternut, royal_bank, waterfox, tui, proton_authenticator, blink, mbna, automation, wowcam, heliboard, natwest, showly
+Improved quality of windy
+Fixed windy, barclays, chase, roborock

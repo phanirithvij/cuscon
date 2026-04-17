@@ -6,6 +6,26 @@
     <item drawable="where_winds_meet" />
     <item drawable="means_tv" />
     <item drawable="seeneva" />
+    <item drawable="barclays" />
+    <item drawable="chase" />
+    <item drawable="roborock" />
+    <item drawable="wiser_home" />
+    <item drawable="step_tracker_pedometer" />
+    <item drawable="opentune" />
+    <item drawable="assistant_app_launcher" />
+    <item drawable="butternut" />
+    <item drawable="royal_bank" />
+    <item drawable="waterfox" />
+    <item drawable="tui" />
+    <item drawable="proton_authenticator" />
+    <item drawable="windy" />
+    <item drawable="blink" />
+    <item drawable="mbna" />
+    <item drawable="automation" />
+    <item drawable="wowcam" />
+    <item drawable="heliboard" />
+    <item drawable="natwest" />
+    <item drawable="showly" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -801,6 +821,8 @@
     <item drawable="_f_droid_kdi" />
     <item drawable="_sound_" />
     <category title="A" />
+    <item drawable="automation" />
+    <item drawable="assistant_app_launcher" />
     <item drawable="afterpay" />
     <item drawable="affirm" />
     <item drawable="autoelevate" />
@@ -1200,6 +1222,8 @@
 	<item drawable="awoken" />
 	<item drawable="awox_homecontrol" />
     <category title="B" />
+    <item drawable="blink" />
+    <item drawable="butternut" />
     <item drawable="b_and_n_nook" />
     <item drawable="blip" />
     <item drawable="briar" />
@@ -2836,6 +2860,7 @@
 	<item drawable="gsmarena" />
 	<item drawable="gspace" />
     <category title="H" />
+    <item drawable="heliboard" />
     <item drawable="hudu" />
     <item drawable="heartopia" />
     <item drawable="horzu" />
@@ -3582,6 +3607,8 @@
 	<item drawable="lucky_wasted" />
 	<item drawable="lux_o_meter_lichtmesser" />
     <category title="M" />
+    <item drawable="mbna" />
+    <item drawable="means_tv" />
     <item drawable="morphe" />
     <item drawable="mobilny_usos_ui" />
     <item drawable="my_santa_maria" />
@@ -4105,6 +4132,7 @@
 	<item drawable="myumobile" />
     <item drawable="mbank" />
     <category title="N" />
+    <item drawable="natwest" />
     <item drawable="ninjaone" />
     <item drawable="ninja_remote" />
     <item drawable="now_playing" />
@@ -4334,6 +4362,7 @@
 	<item drawable="nozzle" />
 	<item drawable="nytimes" />
     <category title="O" />
+    <item drawable="opentune" />
     <item drawable="ontime" />
     <item drawable="octopi_launcher" />
     <item drawable="old_school_runescape" />
@@ -4517,6 +4546,7 @@
 	<item drawable="osmand_" />
 	<item drawable="ovag_e_mobil" />
     <category title="P" />
+    <item drawable="proton_authenticator" />
     <item drawable="paltopia" />
     <item drawable="pokemon_home" />
     <item drawable="pocket_code" />
@@ -4973,6 +5003,7 @@
 	<item drawable="quik" />
 	<item drawable="quillpad" />
     <category title="R" />
+    <item drawable="royal_bank" />
     <item drawable="readeck_app" />
     <item drawable="rdr" />
     <item drawable="robot_colony_2" />
@@ -5215,6 +5246,9 @@
 	<item drawable="rustdesk" />
 	<item drawable="rvx_music" />
     <category title="S" />
+    <item drawable="showly" />
+    <item drawable="step_tracker_pedometer" />
+    <item drawable="seeneva" />
     <item drawable="squad_busters" />
     <item drawable="sotn" />
     <item drawable="sdui" />
@@ -5789,6 +5823,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="tui" />
     <item drawable="tesla" />
     <item drawable="telehealth" />
     <item drawable="track_and_graph" />
@@ -6469,6 +6504,9 @@
     <item drawable="wifi_signal_meter" />
     <item drawable="ampwifi" />
     <category title="W" />
+    <item drawable="wowcam" />
+    <item drawable="waterfox" />
+    <item drawable="wiser_home" />
     <item drawable="where_winds_meet" />
     <item drawable="wg_tunnel_new" />
     <item drawable="wallpapers_by_idtr" />
