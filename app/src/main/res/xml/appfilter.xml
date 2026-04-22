@@ -7035,6 +7035,16 @@
   <item component="ComponentInfo{helium314.keyboard/helium314.keyboard.settings.SettingsActivity}" drawable="heliboard" />
   <item component="ComponentInfo{com.rbs.mobile.android.natwest/co.uk.rbsg.mobile.android.feature.login.LoginActivity}" drawable="natwest" />
   <item component="ComponentInfo{com.michaldrabik.showly2/com.michaldrabik.showly2.ui.main.MainActivity}" drawable="showly" />
+  <item component="ComponentInfo{com.nianticlabs.campfire/com.nianticlabs.campfire.MainActivity}" drawable="campfire" />
+    <item component="ComponentInfo{com.crunchyroll.crunchyroid/com.ellation.crunchyroll.presentation.startup.StartupActivity}" drawable="crunchyroll" />
+    <item component="ComponentInfo{com.cube.out.jam.puzzle/wonder.LaucherActivity}" drawable="cube_out_3d_jam_puzzle" />
+    <item component="ComponentInfo{com.dave/com.dave.MainActivity}" drawable="dave" />
+    <item component="ComponentInfo{com.zehnder.entergy/com.zehnder.entergy.splash.SplashActivity}" drawable="entergy" />
+    <item component="ComponentInfo{com.ford.fordpass/com.fordmps.fivehome.views.FordPassFiveHomeActivity}" drawable="ford" />
+    <item component="ComponentInfo{com.tree.hybrid.geartank/com.google.firebase.MessagingUnityPlayerActivity}" drawable="gear_truck" />
+    <item component="ComponentInfo{com.highlinefast.smarthome/com.highlinefast.smarthome.ui.loginregconfig.Splash}" drawable="highline_fast" />
+    <item component="ComponentInfo{com.loadcomplete.aichainsaw/com.loadcomplete.UnityPlayerSayKitBridgeActivityExtension}" drawable="juice_king" />
+    <item component="ComponentInfo{com.tmobile.tuesdays/com.telekom.tworld.dashboard.LauncherActivity}" drawable="t_life_2" />
 
 </resources>
 

@@ -2,30 +2,16 @@
 <resources>
     <version>1</version>
     <category title="New Icons" />
-    <item drawable="gamehub" />
-    <item drawable="where_winds_meet" />
-    <item drawable="means_tv" />
-    <item drawable="seeneva" />
-    <item drawable="barclays" />
-    <item drawable="chase" />
-    <item drawable="roborock" />
-    <item drawable="wiser_home" />
-    <item drawable="step_tracker_pedometer" />
-    <item drawable="opentune" />
-    <item drawable="assistant_app_launcher" />
-    <item drawable="butternut" />
-    <item drawable="royal_bank" />
-    <item drawable="waterfox" />
-    <item drawable="tui" />
-    <item drawable="proton_authenticator" />
-    <item drawable="windy" />
-    <item drawable="blink" />
-    <item drawable="mbna" />
-    <item drawable="automation" />
-    <item drawable="wowcam" />
-    <item drawable="heliboard" />
-    <item drawable="natwest" />
-    <item drawable="showly" />
+    <item drawable="campfire" />
+    <item drawable="crunchyroll" />
+    <item drawable="cube_out_3d_jam_puzzle" />
+    <item drawable="dave" />
+    <item drawable="entergy" />
+    <item drawable="ford" />
+    <item drawable="gear_truck" />
+    <item drawable="highline_fast" />
+    <item drawable="juice_king" />
+    <item drawable="t_life_2" />
     <category title="Folders" />
     <item drawable="folder_blue" />
     <item drawable="folder_dark_blue" />
@@ -1501,6 +1487,9 @@
 	<item drawable="bycs_drive" />
     <item drawable="ballozi_skynox" />
     <category title="C" />
+    <item drawable="campfire" />
+    <item drawable="crunchyroll" />
+    <item drawable="cube_out_3d_jam_puzzle" />
     <item drawable="csb_mobile" />
     <item drawable="calibre_web_companion" />
     <item drawable="comaps" />
@@ -1884,6 +1873,7 @@
 	<item drawable="cubic_2_3_4_player_games" />
 	<item drawable="currencies" />
     <category title="D" />
+    <item drawable="dave" />
     <item drawable="daily_you" />
     <item drawable="dnsnet" />
     <item drawable="drawpile"/>
@@ -2185,6 +2175,7 @@
 	<item drawable="dynalist" />
 	<item drawable="dynamicspot" />
     <category title="E" />
+    <item drawable="entergy" />
     <item drawable="expo_go" />
     <item drawable="eidetic" />
     <item drawable="ente_photos_green" />
@@ -2372,6 +2363,7 @@
 	<item drawable="exodus" />
 	<item drawable="exteragram" />
     <category title="F" />
+    <item drawable="ford" />
     <item drawable="follow" />
     <item drawable="filen" />
     <item drawable="finch" />
@@ -2636,6 +2628,7 @@
 	<item drawable="futo_voice_input" />
 	<item drawable="fx" />
     <category title="G" />
+    <item drawable="gear_truck" />
     <item drawable="gamehub" />
     <item drawable="geforce_now" />
     <item drawable="golemde" />
@@ -2860,6 +2853,7 @@
 	<item drawable="gsmarena" />
 	<item drawable="gspace" />
     <category title="H" />
+    <item drawable="highline_fast" />
     <item drawable="heliboard" />
     <item drawable="hudu" />
     <item drawable="heartopia" />
@@ -3206,6 +3200,7 @@
 	<item drawable="ir_remote" />
 	<item drawable="iron" />
     <category title="J" />
+    <item drawable="juice_king" />
     <item drawable="juno_new_origins_complete_edition" />
     <item drawable="juno_new_origins" />
     <item drawable="jquarks" />
@@ -5823,6 +5818,7 @@
 	<item drawable="swiss_post" />
 	<item drawable="systemui_tuner" />
     <category title="T" />
+    <item drawable="t_life_2" />
     <item drawable="tui" />
     <item drawable="tesla" />
     <item drawable="telehealth" />

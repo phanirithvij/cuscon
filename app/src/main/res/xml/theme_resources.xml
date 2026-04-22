@@ -6923,5 +6923,15 @@
   <AppIcon name="helium314.keyboard/helium314.keyboard.settings.SettingsActivity" image="heliboard" />
   <AppIcon name="com.rbs.mobile.android.natwest/co.uk.rbsg.mobile.android.feature.login.LoginActivity" image="natwest" />
   <AppIcon name="com.michaldrabik.showly2/com.michaldrabik.showly2.ui.main.MainActivity" image="showly" />
+  <AppIcon name="com.nianticlabs.campfire/com.nianticlabs.campfire.MainActivity" image="campfire"/>
+    <AppIcon name="com.crunchyroll.crunchyroid/com.ellation.crunchyroll.presentation.startup.StartupActivity" image="crunchyroll"/>
+    <AppIcon name="com.cube.out.jam.puzzle/wonder.LaucherActivity" image="cube_out_3d_jam_puzzle"/>
+    <AppIcon name="com.dave/com.dave.MainActivity" image="dave"/>
+    <AppIcon name="com.zehnder.entergy/com.zehnder.entergy.splash.SplashActivity" image="entergy"/>
+    <AppIcon name="com.ford.fordpass/com.fordmps.fivehome.views.FordPassFiveHomeActivity" image="ford"/>
+    <AppIcon name="com.tree.hybrid.geartank/com.google.firebase.MessagingUnityPlayerActivity" image="gear_truck"/>
+    <AppIcon name="com.highlinefast.smarthome/com.highlinefast.smarthome.ui.loginregconfig.Splash" image="highline_fast"/>
+    <AppIcon name="com.loadcomplete.aichainsaw/com.loadcomplete.UnityPlayerSayKitBridgeActivityExtension" image="juice_king"/>
+    <AppIcon name="com.tmobile.tuesdays/com.telekom.tworld.dashboard.LauncherActivity" image="t_life_2"/>
 
 </Theme>
